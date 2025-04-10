@@ -4,16 +4,12 @@
 </head>
 <header>
  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=88de50&text=%20" width='100%' >
- <div align="center">
-    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=a3d359&center=true&vCenter=true&width=435&height=25%&lines=Hello! My name is Renan;Welcome to my Github!" alt="Typing SVG" />
-    </a>
-</div> 
+ 
 </header>
 <div align="center">
  
 ![R3nanHorochk's Stats](https://github-readme-stats.vercel.app/api?username=R3nanHorochk&theme=merko&show_icons=true&hide_border=false&count_private=true)
-![R3nanHorochk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=R3nanHorochk&theme=merko&hide_border=false)
+
 ![R3nanHorochk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R3nanHorochk&theme=merko&show_icons=true&hide_border=false&layout=compact)
 
 </div>
