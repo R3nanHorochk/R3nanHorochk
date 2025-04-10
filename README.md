@@ -5,6 +5,8 @@
 <header>
  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=88de50&text=%20" width='100%' >
  
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27DA00&center=true&vCenter=true&width=435&lines=Welcome+to+my+github!;Renan+Horochk" alt="Typing SVG" /></a>
+ 
 </header>
 <div align="center">
  
